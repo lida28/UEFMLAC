@@ -7,7 +7,10 @@ Creación de Aplicación Web estática a partir de plantillas base
      - Se aumento un html
      - Se cambio color de encabezado y pie de página usando el css.
      - Se ubico imágenes en todos los html sobre Institución.
-     - Se utilizo java script para el formulario del html "Contactos".
+     - Se utilizo java script para el formulario del html "Contactos"
+     - Se utilizó información de la Unidad Educativa Fiscomisional  Mons. Luis  Alfonso Crespo
+     
+     
 </p>
 
 <h2>Integrantes:</h2>
